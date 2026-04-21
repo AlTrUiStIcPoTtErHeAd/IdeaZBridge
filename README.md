@@ -1,5 +1,5 @@
 
-# IdeazBridge — Crowd-Powered Problem Solving Platform
+# IdeaForge — Crowd-Powered Problem Solving Platform
 
 
 A full-stack web application where individuals and organizations post real-world problems and receive AI-ranked solutions from a diverse contributor community.
