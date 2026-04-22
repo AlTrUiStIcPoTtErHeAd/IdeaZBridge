@@ -1,6 +1,24 @@
 # IdeaForge
 
+<<<<<<< HEAD
 > AI-powered crowd problem solving platform where users post real-world challenges and receive structured, ranked, and collaborative solutions.
+=======
+# IdeaForge — Crowd-Powered Problem Solving Platform
+
+
+A full-stack web application where individuals and organizations post real-world problems and receive AI-ranked solutions from a diverse contributor community.
+
+## Tech Stack
+
+| Layer | Tech |
+|-------|------|
+| Frontend | React 18 + Vite + Tailwind CSS |
+| Backend | Node.js + Express |
+| Database | MongoDB + Mongoose |
+| AI | Anthropic Claude API |
+| Realtime | Socket.io |
+| Auth | JWT (jsonwebtoken + bcryptjs) |
+>>>>>>> 6a591ee232729330f6578325259d61b62de897b8
 
 ---
 
